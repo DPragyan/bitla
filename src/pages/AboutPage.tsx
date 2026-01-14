@@ -23,22 +23,22 @@ export function AboutPage() {
 
   const team = [
     {
-      name: 'John Doe',
+      name: 'Arjun Sarkar',
       role: 'CEO & Founder',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
     },
     {
-      name: 'Jane Smith',
+      name: 'Akshay',
       role: 'CTO',
       image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
     },
     {
-      name: 'Mike Johnson',
+      name: 'Rani Desai',
       role: 'Lead Developer',
       image: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
     },
     {
-      name: 'Sarah Williams',
+      name: 'Kheera Desai',
       role: 'Head of Operations',
       image: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80'
     }
