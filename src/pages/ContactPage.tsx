@@ -275,7 +275,7 @@ export function ContactPage() {
           <div className="bg-gray-200 rounded-xl h-96 flex items-center justify-center">
             <div className="text-center">
               <MapPin className="h-16 w-16 text-teal-600 mx-auto mb-4" />
-              <p className="text-gray-600">Interactive map would be integrated here</p>
+              <p className="text-gray-600">Support : admin@bitla.software</p>
               <p className="text-sm text-gray-500 mt-2">
                 2nd Floor, 2 D/C, Back side of opposite park, gandhi nagar, Jammu, Jammu and Kashmir
               </p>
